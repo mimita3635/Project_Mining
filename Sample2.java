@@ -10,7 +10,7 @@ package sample;
  * @author user
  */
 public class Sample2 {
-     int Fifi(int a,int b){
+     int Fifi(int a,int b, String F){
         return a;
     }
     public static void main(String[] args) {
