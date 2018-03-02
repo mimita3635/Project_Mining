@@ -14,7 +14,8 @@ public class Sample {
     /**
      * @param args the command line arguments
      */
-    static int Fi(int a,int b,double c){
+    static int Fi(int a,int b,double c)
+	{
         return a;
     }
     public static void main(String[] args) {
