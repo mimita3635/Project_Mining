@@ -14,10 +14,16 @@ public class Sample {
     /**
      * @param args the command line arguments
      */
-    public static int Fi()
+    public static int Fi(int a, int b, double b)
 	{
         return a;
     }
+	
+	static void Mi(){
+		
+		System.out.println("Hello");
+		
+	}
     public static void main(String[] args) {
         // TODO code application logic here
     }
