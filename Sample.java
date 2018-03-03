@@ -19,7 +19,7 @@ public class Sample {
         return a;
     }
 	
-	static void Mi(){
+	static void Mi(int a){
 		
 		System.out.println("Hello");
 		
