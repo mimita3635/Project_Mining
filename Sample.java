@@ -14,12 +14,12 @@ public class Sample {
     /**
      * @param args the command line arguments
      */
-    public static int Fi(int a, int b, double b)
+    public static int Fi(int a, int b, double b, String j)
 	{
         return a;
     }
 	
-	static void Mi(int a){
+	static void Mi(int a, int b){
 		
 		System.out.println("Hello");
 		
