@@ -25,7 +25,7 @@ public class Sample {
 		
 	}
 	
-	Sample(){
+	Sample(int a){
 		
 			System.out.println("Hello");
 	
