@@ -24,6 +24,12 @@ public class Sample {
 		System.out.println("Hello");
 		
 	}
+	
+	Sample(){
+		
+			System.out.println("Hello");
+	
+	}
     public static void main(String[] args) {
         // TODO code application logic here
     }
